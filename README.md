@@ -21,7 +21,7 @@ pip install requests
 🔧 How to Run
 Clone the repository:
 
-git clone https://github.com/Shreyo07/Random-Joke-Generator.git
+git clone https://github.com/Shreyo07/-Random-Joke-Generator.git
 cd Random-Joke-Generator
 
 Run the script:
