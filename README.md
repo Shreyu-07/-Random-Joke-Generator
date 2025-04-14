@@ -28,7 +28,7 @@ cd Random-Joke-Generator
 Run the script:
 
 bash
-```python joke.py```
+```python jokeAPI.py```
 
 
 🧾 Example Output
