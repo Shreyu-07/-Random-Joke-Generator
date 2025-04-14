@@ -22,6 +22,7 @@ pip install requests
 Clone the repository:
 
 git clone https://github.com/Shreyu-07/-Random-Joke-Generator?tab=readme-ov-file
+
 cd Random-Joke-Generator
 
 Run the script:
